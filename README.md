@@ -1,4 +1,13 @@
-## Foundry
+## Foundry ERC20 F23
+Foundry ERC20 F23 is a Solidity project that demonstrates the creation and deployment of an ERC20 token using Foundry, a fast and portable Ethereum development toolkit written in Rust. This project provides a practical example of how to write, compile, test, and deploy smart contracts using Foundry's suite of tools.
+
+## Getting Started
+These instructions will help you get a copy of the project up and running on your local machine for development and testing purposes.
+
+## Prerequisites
+Git: Used for version control and cloning the repository.
+Foundry: The primary development toolkit for Ethereum application development.
+You can check if you have Git installed by running git --version in your terminal. For Foundry, you can check its version with forge --version.
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
 
